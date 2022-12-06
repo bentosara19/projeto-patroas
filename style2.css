@@ -1,0 +1,155 @@
+
+
+@media (max-width:800px){
+    body {
+        margin: 40px 0 0 0;
+        background-color: ivory;
+        
+        
+    }
+    nav img {
+        position: relative;
+        left: 0px;
+        
+    }
+    img{
+        max-width: 90%;
+        max-height: 90%;
+    }
+    nav {
+        background-color: black;
+        position: fixed;
+        top: 0;
+        width: 100%;
+        list-style-type:none; 
+        padding: 0px;
+        height: 100px;
+        margin: 0;
+        
+    }
+    
+    nav ul {
+        list-style-type: none;
+        width: 100%;
+        background-color: black;
+        text-align: center;
+    }
+    
+    nav li{
+        display: inline;
+        padding: 10px;
+        position: relative;
+        font-size: 10pt;
+    }
+    
+    nav ul li {
+        background-color: black;
+        color: white;
+        display: inline-block;
+        position: relative;
+        padding: 12px;
+        margin: 0;
+    }
+    
+    nav li a {
+        text-decoration: none;
+        display: inline-block;
+        color: white;
+        padding: 16px;
+       }
+    
+       nav ul li a {
+        text-decoration: none;
+        color: rgb(255, 200, 20);
+        padding: 9px;
+        display: inline-block;
+        margin: 0px;
+       }
+    
+    nav ul li ul {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        display: none;
+    }
+    
+    nav ul li li {
+        background-color: black;
+        color: white;
+        min-width: 100px;
+    }
+    
+    nav ul li:hover {
+        background-color: rgb(121, 120, 120);
+    }
+    
+    nav ul li:hover ul {
+        display: block;
+        
+    }
+    main{
+        margin-top: 10%;
+        text-align: justify;
+        display: inline-block;
+        font-size: 15pt;
+        margin-left: 29%;
+        padding-right: 35%;
+    }
+    .main2{
+        margin-top: 2%;
+        text-align: justify;
+        display: inline-block;
+        margin-left: 1%;
+        padding-right: 20%;
+    
+    }
+    .main{
+        text-align: justify;
+        display: inline-block;
+        text-align: center;
+        margin-top: 5%;
+        vertical-align: top;
+        border: 3px  solid black;
+        margin-left: 20%;
+        font-size: 15pt;
+        margin-bottom: 0%;
+        background-color: antiquewhite;
+       }
+       
+h1{
+    font-size: 60px;
+    text-align: center;
+    text-shadow: 1px 1px 2px gold;
+}
+main img{
+    text-align: center;
+    border: 2%;
+    
+    
+    
+}
+
+footer{
+    
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 10pt;
+    bottom: 0;
+    margin: 10px 0 0 0;
+    height: 20%;
+    padding: 30px;
+    width: 100%;
+    
+}
+footer img {
+    position: relative;
+    left: 0;
+}
+ h2{
+    font-size: 30pt;
+    text-align: center;
+ }
+}
+
