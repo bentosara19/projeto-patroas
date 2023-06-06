@@ -1,3 +1,3 @@
-# projeto-patroas
+PROJETO PATROAS 👑👑👑
 
-projeto patroas, criado para um trabalho da escola, a intenção do site é mostras a historia de três mulheres incriveis do meio sertanejo
+O projeto "Patroas" foi desenvolvido como parte de um trabalho escolar, com o propósito de apresentar a história de três mulheres notáveis do meio sertanejo.
